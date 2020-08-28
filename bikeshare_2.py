@@ -46,7 +46,7 @@ def get_filters():
         month = get_user_input('Which month - January, February, March, April, May, or June?')
         while  not(valid_month(month)):
             print('Incorrect month provided. Lets try again...')
-            month = get_user_input('Please provide month to analyze. You can enter January, February, March, April, May, or June:')
+            month = get_user_input('Please provide the month to analyze. You can enter January, February, March, April, May, or June:')
 
     elif filter_type == "day":
         # get user input for day of week (all, monday, tuesday, ... sunday)
