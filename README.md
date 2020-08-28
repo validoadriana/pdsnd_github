@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
-
+Project was created on Aug 28, 2020.
 ### Project Title
-Replace the Project Title
+Bikeshare Data Analysis 
 
 ### Description
-Describe what your project is about and what it does
+This project contains tools for analyzing BikeShare data in an interactive way
 
 ### Files used
-Include the files used
+It uses 3 data files as inputs:
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credit to Udacity
 
