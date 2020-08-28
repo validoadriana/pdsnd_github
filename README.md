@@ -5,9 +5,9 @@ Bikeshare Data Analysis
 
 ### Description
 This project contains tools for analyzing BikeShare data in an interactive way. To run the tool run from the command line:
-`
+``` 
 python3 bikeshare_2.py 
-`
+```
 
 
 ### Files used
